@@ -172,5 +172,5 @@ class Game:
         return False
 
 # Start the game
-g = Game()
-g.play()
+game = Game()
+game.play()
